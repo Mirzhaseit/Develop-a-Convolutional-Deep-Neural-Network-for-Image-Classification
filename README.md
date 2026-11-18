@@ -37,9 +37,9 @@ Select a single test image, pass it through the trained CNN, and display the act
 
 ## PROGRAM
 
-### Name: SADHANA K
+### Name: MIRZHA FATHIMA S
 
-### Register Number: 212225240128
+### Register Number: 212224230159
 
 ```python
 import torch
